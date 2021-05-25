@@ -1,5 +1,5 @@
 function prin(){
 
-console.log('hellp');
+console.log('hdellp');
 
 }
